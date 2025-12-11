@@ -1,19 +1,18 @@
-[tooltip]: ## "Hi, I'm a tooltip!\nI'll fill you in on the details as we go!"
-
-
-
 # WAW MIDI MTP-25K
 A Camosun College Electronics Capstone Project
 Dec, 2025
 
-So, you've picked up a new MTP-25K MIDI controller. Thank you and congratulations!
+Welcome to the WAW MIDI MTP-25K Prototype walkthrough page!
 
-This manual will run through an example where we:
-  - connect an MTP-25K to a computer and a synthesizer;
-  - play some notes using the different modes and features;
-  - experiment with different modulation options;
-  - and hack the firmware to customize our controller even further!
+The MTP-25K is a 25-key MIDI controller driven by capacitive-touch technology. We are designing it as a hobbyist-friendly DIY kit, and intend to make the PCB schematics, enclosure 3D print files, and firmware available to end users.
 
+The MTP-25K is still in its prototype phase, so keep an eye out as we continue to improve our MIDI controller!
+
+This tutorial will run through an example where we:
+  - connect an MTP-25K to a computer and a synthesizer,
+  - play some notes using the different modes and features, and
+  - discuss future plans for further development!
+    
 ## Table of Contents
   - [Connecting to MIDI Devices](#connecting-to-midi-devices)
     - [Computer](#computer)
