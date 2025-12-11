@@ -1,5 +1,5 @@
 # WAW MIDI MTP-25K
-A Camosun College Electronics Capstone Project
+A Camosun College Electronics Capstone Project  
 Dec, 2025
 
 Welcome to the WAW MIDI MTP-25K Prototype walkthrough page!
