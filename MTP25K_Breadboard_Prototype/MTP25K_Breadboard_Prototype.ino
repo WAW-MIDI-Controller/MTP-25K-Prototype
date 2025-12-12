@@ -18,16 +18,13 @@
 #include <MIDI.h>
 /*********************************************************************************/
 
-
-const uint8_t MCP1_PIN_COUNT = 12;
-const uint8_t MCP2_PIN_COUNT = 13;
-
-// Button pins
+/********************************** BUTTON PINS **********************************/
 const uint8_t OCT_DOWN_PIN = 33;
 const uint8_t OCT_UP_PIN = 34;
 const uint8_t SHIFT_PIN = 35;
 const uint8_t HOLD_PIN = 36;
 const uint8_t ARP_PIN = 37;
+/*********************************************************************************/
 
 /*************************** CHARLIEPLEXING VARIABLES ****************************/
 // Charlieplexing addresses
@@ -111,6 +108,10 @@ const uint8_t DIFFICULT_LED_Y = 1;
 #define QUARTER 1
 #define EIGHTH 2
 #define SIXTEENTH 4
+
+// MCP definitions
+#define MCP1_PIN_COUNT 12
+#define MCP2_PIN_COUNT 13
 /*********************************************************************************/
 
 /************************************ STRUCTS ************************************/
